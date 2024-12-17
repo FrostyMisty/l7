@@ -1,0 +1,216 @@
+nav {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+nav .nav-items {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
+nav .nav-items li a {
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+ul .nav-logo li img {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+}
+
+.navBtn {
+  width: 160px;
+  height: 44px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #6b77e5;
+  border: none;
+}
+
+.navBtn .consultingBtn {
+  color: white;
+}
+
+.sapien {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  padding-top: 180px;
+  gap: 30px;
+  font-size: 25px;
+  align-items: center;
+}
+
+.sapien h2 {
+  font-size: 47px;
+  font-weight: 700;
+}
+.wework {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  gap: 31px;
+}
+
+.icon {
+  margin: 20px;
+}
+.iconDiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #40ddb6;
+}
+
+.differentDiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #6b77e5;
+}
+
+.workBox {
+  width: 380px;
+  height: 380px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: #f4f4f4;
+  font-weight: 700;
+}
+.descBox {
+  color: #6b77e5;
+}
+
+.banneri {
+  width: 1862px;
+  height: 557px;
+}
+
+.bannertxt {
+  position: absolute;
+  width: 511px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.imagerelative {
+  position: relative;
+}
+
+.jones2 {
+  font-weight: 700;
+  font-size: 40px;
+}
+
+.jones1 {
+  font-weight: 500;
+  size: 18px;
+}
+
+.jones3 {
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.buttons {
+  height: -10;
+  position: relative;
+  position: absolute;
+  left: 50%;
+  top: 70%;
+  transform: translate(-50%, -50%);
+}
+
+.boxing {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.bio {
+  background-color: white;
+  width: 341px;
+  height: 114px;
+  position: absolute;
+  left: 341px;
+  bottom: -1100px;
+  right: 69px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.bio-two {
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 37px;
+  align-items: center;
+}
+
+.bio-three {
+  font-weight: 400;
+  font-size: 18px;
+}
+.glasses {
+  background-color: white;
+  width: 341px;
+  height: 114px;
+  position: absolute;
+  left: 780px;
+  bottom: -1100px;
+  right: 69px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.glasses-two {
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 37px;
+  align-items: center;
+}
+
+.glasses-three {
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 37px;
+  align-items: center;
+}
+
+.white-woman {
+  background-color: white;
+  width: 341px;
+  height: 114px;
+  position: absolute;
+  left: 1200px;
+  bottom: -1100px;
+  right: 69px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
